@@ -1,1 +1,1 @@
-Aplicando REDUX em um formulário simples usando REDUX
+Aplicando REDUX em um formulário simples do REACT
